@@ -13,7 +13,7 @@
  
  <hr>
 
- #Sobre mim
+ ## Sobre mim
  Muito bem vindo ao meu GitHub, sou Gustavo Pasqualetti, um entusiasta apaixonado por tecnologia e desenvolvimento de sistemas, pronto para enfrentar os desafios do mundo digital e fazer a diferença através do meu trabalho e dedicação.
 
 ## Ferramentas e Tecnologias 🛠️
