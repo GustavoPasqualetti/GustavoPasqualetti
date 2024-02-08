@@ -1,5 +1,10 @@
 <p align = "center">
   <a href="https://github.com/GustavoPasqualetti">
+    
+## Ola, me chamo Gustavo Pasqualetti 👱🏼‍♂
+
+ Muito bem vindo ao meu GitHub, sou Gustavo Pasqualetti, um entusiasta apaixonado por tecnologia e desenvolvimento de sistemas, pronto para enfrentar os desafios do mundo digital e fazer a diferença através do meu trabalho e dedicação.
+  
 
   <div align="center">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoPasqualetti&show_icons=true&theme=midnight-purple">
@@ -12,9 +17,7 @@
  
  <hr>
 
- ## Ola, me chamo Gustavo Pasqualetti 👱🏼‍♂
-
- Muito bem vindo ao meu GitHub, sou Gustavo Pasqualetti, um entusiasta apaixonado por tecnologia e desenvolvimento de sistemas, pronto para enfrentar os desafios do mundo digital e fazer a diferença através do meu trabalho e dedicação.
+ 
 
  ## Sobre Mim 👨🏼‍💻
 
